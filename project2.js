@@ -55,7 +55,32 @@ for(var locationNumber = 0; locationNumber < workoutLocation.length; locationNum
  // for times per locations
 
 
-
+// my argument code.  I became very lost here.
+var workoutLocations = [ "Gym", "Living Room", "Wii-fit", "Road Bike"],
+	minsPerWorkout = [60, 20, 30, 120];
+	
+var workoutAtOneLocation = function (locationNumber) {}
+	
+for(var locationNumber = 0; locationNumber < workoutLocation.length; locationNumber++){
+	var workoutLocation = workoutLocations[locationNumber],
+		minsPerLocation = minsPerLocation[locationNumber];
+		console.log (" On my way to work out at the" + workoutLocation + "for" 
+					+ "minsPerLocation" + "minutes.");
+	
+	for (var minutes = 0; minutes < minPerLocation; minutes+= 10) {
+		var mintesRemain = minsPerLocation - minutes;
+		console.log(minutes + "Workout Complete," + minutesRemain + "to go"); 	
+	
+	}
+	console.log ("My workout at the " + workOutLocation + ".");
+ };
+ 
+ var workoutAtAlllocations = function() {
+ 	for (var locationNumber = 0; locationNumber < workoutLocation.length; 		
+ 		locationNumber++) {
+ 		workoutAtOneLocation(locationNumber);
+ 		
+ 		
 
 
 
