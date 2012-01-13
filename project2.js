@@ -27,6 +27,18 @@ while (pillsLeftInBottle > 0){
 
 console.log (" Time to make a vitamin run!!!");
 
+// I listed the 3 main, mojor workouts I enjoy doing.  If you don't enjoy a workout, you won't do it.
+
+var atwo = ["Upper Body", "Core", "Lower Body"];
+	atwo[0] = "Jillian's Biggest Looser Last chance workout DVD"
+	atwo[1] = "Jillian's 6 weeks to six pack DVD"
+	atwo[2] = "RUN!!!";
+console.log(atwo);
+
+
+
+
+
 
 
 
