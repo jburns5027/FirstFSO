@@ -17,7 +17,6 @@ if(coldRun === true){
 };
 
 // my weightloss starts with a daily vitamin.
-
 var pillsLeftInBottle = 100;
 
 while (pillsLeftInBottle > 0){
