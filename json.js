@@ -12,6 +12,11 @@ var json ={
 		}
 		
 };
+
+for (var key in json.fitness apps) {
+	var fitness app = json.fitness apps[key]
+	
+};
 		
 		
 	
