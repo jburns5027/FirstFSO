@@ -50,6 +50,17 @@ then = console.log (Nike GPS work starts to track progress);
  	while(warmup);
  
  then( console.log("RUN!!!"));
+ 
+ var handleData = function(json) {
+	for (var i = 0; <json.fitness apps.lenghh; i++) {
+	var vApp = json.fitness apps[i];
+	console.log ("Name:" + " Developer.Dev,:" + ",cost.cost" +, );
+	};
+	
+
+};
+
+handleData(json2);
 
  
  
